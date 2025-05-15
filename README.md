@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm (Ola) Runc9
 
-<!--
-**Runc9/Runc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud Security Compliance & GRC Engineer who is passionate about Compliance-as-Code, AWS security automation, and building audit-ready infrastructure for scalable cloud environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlight Projects
+
+### 🔒 [AWS Auto-Remediation GRC Lab](https://github.com/Runc9/aws-auto-remediation-grc-lab)
+Deploy Config, EventBridge, and Lambda to enforce compliance with CIS/NIST controls. Uses full CloudFormation for IaC and demonstrates real-world auto-remediation strategy.
+
+---
+
+## 🛡 Core Focus Areas
+
+- 🛠 Compliance-as-Code (AWS Config, SCPs, Security Hub)
+- ⚙️ Infrastructure-as-Code (CloudFormation, Terraform basics)
+- 🔐 Cloud Security Governance (IAM, Guardrails, Logging)
+- 📊 Framework Mapping (NIST 800-53, CIS v8, ISO 27001)
+- ⚡ Security Automation & Event-Driven Remediation
+- 🧾 Audit-Ready Logs and Evidence Generation
+- ☁️ Cloud Platforms: AWS-first, multi-cloud and  expanding into Kubernetes
+
+---
+
+## 📚 Current Labs in Progress
+
+- ✅ GRC Control Blueprints in AWS
+- 🔄 Cloud Audit Automation & Report Exporting
+- 🧱 Multi-account Guardrail Enforcements via SCP + Config
+- 📦 Secure Cloud Deployments with GitHub Actions + IaC
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/olasecurity)
+- 📄 [Website] Coming Soon
+- 🛠 GitHub: [github.com/Runc9](https://github.com/Runc9)
+
+---
+
+> Let’s secure the cloud — one compliant stack at a time.
