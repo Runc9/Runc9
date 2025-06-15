@@ -1,6 +1,6 @@
 # 👋 Hi, I'm (Ola) Runc9
 
-I'm a Cloud Security Compliance & GRC Engineer who is passionate about Compliance-as-Code, AWS security automation, and building audit-ready infrastructure for scalable cloud environments.
+I'm a Cloud Security Compliance & GRC Engineer passionate about Compliance-as-Code, AWS security automation, and building audit-ready, scalable infrastructure. I align cloud governance and risk management with both engineering workflows and business goals, enabling resilient operations, continuous compliance, and executive trust. My work bridges the gap between technical teams (DevOps, SREs, architects) and regulatory expectations, making GRC a growth enabler, not a blocker.
 
 ---
 
