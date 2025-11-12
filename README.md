@@ -35,9 +35,9 @@ Deploy Config, EventBridge, and Lambda to enforce compliance with CIS/NIST contr
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/olasecurity)
-- 📄 [Website] Coming Soon
+- 📄 [Website] https://runc9.github.io/
 - 🛠 GitHub: [github.com/Runc9](https://github.com/Runc9)
 
 ---
 
-> Let’s secure the cloud — one compliant stack at a time.
+> Let’s secure the cloud,one compliant stack at a time.
