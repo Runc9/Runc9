@@ -1,6 +1,6 @@
 # 👋 Hi, I'm (Ola) Runc9
 
-I'm a Cloud Security Compliance & GRC Engineer passionate about Compliance-as-Code, AWS security automation, and building audit-ready, scalable infrastructure. I align cloud governance and risk management with both engineering workflows and business goals, embedding GRC into cloud workflows so compliance doesn't slow innovation, but instead supports agility, trust, and resilience.
+I'm a Cloud Security Compliance & GRC Engineer passionate about Compliance-as-Code, AWS security automation, AI Governance and building audit-ready, scalable infrastructure. I align cloud governance and risk management with both engineering workflows and business goals, embedding GRC into cloud workflows so compliance doesn't slow innovation, but instead supports agility, trust, and resilience.
 
 ---
 
@@ -13,19 +13,20 @@ Deploy Config, EventBridge, and Lambda to enforce compliance with CIS/NIST contr
 
 ## 🛡 Core Focus Areas
 
-- 🛠 Compliance-as-Code (AWS Config, SCPs, Security Hub)
+- 🛠 Compliance-as-Code 
 - ⚙️ Infrastructure-as-Code (CloudFormation, Terraform basics)
 - 🔐 Cloud Security Governance (IAM, Guardrails, Logging)
 - 📊 Framework Mapping (NIST 800-53, CIS v8, ISO 27001)
 - ⚡ Security Automation & Event-Driven Remediation
 - 🧾 Audit-Ready Logs and Evidence Generation
-- ☁️ Cloud Platforms: AWS-first, multi-cloud and  expanding into Kubernetes
+- ☁️ Cloud Platforms: AWS-first (AWS Config, SCPs, Security Hub), multi-cloud and  expanding into Kubernetes
 
 ---
 
 ## 📚 Current Labs in Progress
 
 - ✅ GRC Control Blueprints in AWS
+- 📦 AI Governance
 - 🔄 Cloud Audit Automation & Report Exporting
 - 🧱 Multi-account Guardrail Enforcements via SCP + Config
 - 📦 Secure Cloud Deployments with GitHub Actions + IaC
